@@ -9,6 +9,8 @@ This repository is based on the following resources:
 
 ## Installation
 
+**(!) This is currently _NOT_ working as expected!**
+
 1. Install ofono: `sudo apt install ofono`
 2. Edit `/etc/pulse/default.pa`
    Replace `load-module module-bluetooth-discover`
