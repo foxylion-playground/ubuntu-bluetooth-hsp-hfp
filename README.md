@@ -5,6 +5,7 @@ This repository is based on the following resources:
 - [Ask Ubuntu: Failed to change profile to headset_head_unit](https://askubuntu.com/a/1236379)
 - [Ask Ubuntu: How to install ofono-phonesim on Ubuntu 20.04](https://askubuntu.com/a/1242489)
 - [Ofono Git Reposotry @ kernel.org](https://git.kernel.org/pub/scm/network/ofono/ofono.git/about/)
+- [Related Bug Report @ bugs.launchpad.net](https://bugs.launchpad.net/ubuntu/+source/pulseaudio/+bug/1576559)
 
 ## Installation
 
